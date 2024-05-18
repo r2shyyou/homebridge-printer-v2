@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.0 - 2024-05-18
+- Initial fork from seydx's last version published in 2021 (v1.1.1)
+
 ## v1.1.1 - 2021-05-20
 - Minor improvements & bugfixes
 

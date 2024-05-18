@@ -3,7 +3,7 @@
   "pluginType": "platform",
   "singular": true,
   "customUi": false,
-  "footerDisplay": "For documentation please see [GitHub repository](https://github.com/SeydX/homebridge-printer)",
+  "footerDisplay": "For documentation please see [GitHub repository](https://github.com/r2shyyou/homebridge-printer-v2)",
   "schema": {
     "name": {
       "title": "Name",

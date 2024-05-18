@@ -1,21 +1,12 @@
 <p align="center">
-    <img src="https://github.com/SeydX/homebridge-printer/blob/main/images/printer_logo.png" height="200">
+    <img src="https://github.com/r2shyyou/homebridge-printer-v2/blob/main/images/printer_logo.png" height="200">
 </p>
 
 
 
 # homebridge-printer
 
-[![npm](https://img.shields.io/npm/v/homebridge-printer.svg?style=flat-square)](https://www.npmjs.com/package/homebridge-printer)
-[![npm](https://img.shields.io/npm/dt/homebridge-printer.svg?style=flat-square)](https://www.npmjs.com/package/homebridge-printer)
-[![GitHub last commit](https://img.shields.io/github/last-commit/SeydX/homebridge-printer.svg?style=flat-square)](https://github.com/SeydX/homebridge-printer)
-[![verified-by-homebridge](https://badgen.net/badge/homebridge/verified/purple)](https://github.com/homebridge/homebridge/wiki/Verified-Plugins)
-[![Discord](https://img.shields.io/discord/432663330281226270?color=728ED5&logo=discord&label=discord)](https://discord.gg/kqNCe2D)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NP4T3KASWQLD8)
-
-**Creating and maintaining Homebridge plugins consume a lot of time and effort, if you would like to share your appreciation, feel free to "Star" or donate.**
-
-[Click here](https://github.com/SeydX) to review more of my plugins.
+**Forked from [seydx/homebridge-printer](https://github.com/SeydX/homebridge-printer)**
 
 ## Info
 
@@ -27,7 +18,7 @@ This Plugin creates a Switch Accessory and ContactSensor Accessory with FakeGato
 
 After [Homebridge](https://github.com/nfarina/homebridge) has been installed:
 
--  ```sudo npm i -g homebridge-printer@latest```
+-  ```sudo npm i -g homebridge-printer-v2@latest```
 
 
 ## Basic configuration
@@ -60,7 +51,7 @@ After [Homebridge](https://github.com/nfarina/homebridge) has been installed:
   ]
 }
  ```
- See [Example Config](https://github.com/SeydX/homebridge-printer/blob/master/example-config.json) for more details.
+ See [Example Config](https://github.com/r2shyyou/homebridge-printer-v2/blob/master/example-config.json) for more details.
 
  
  ## Options
@@ -91,8 +82,8 @@ This plugin has been verified to work with the following apps on iOS 12.2 and iO
 
 You can contribute to this homebridge plugin in following ways:
 
-- [Report issues](https://github.com/SeydX/homebridge-printer/issues) and help verify fixes as they are checked in.
-- Review the [source code changes](https://github.com/SeydX/homebridge-printer/pulls).
+- [Report issues](https://github.com/r2shyyou/homebridge-printer-v2/issues) and help verify fixes as they are checked in.
+- Review the [source code changes](https://github.com/r2shyyou/homebridge-printer-v2/pulls).
 - Contribute bug fixes.
 - Contribute changes to extend the capabilities
 

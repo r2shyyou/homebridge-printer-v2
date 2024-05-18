@@ -1,8 +1,8 @@
 /**
  * v1.0
  *
- * @url https://github.com/SeydX/homebridge-printer
- * @author SeydX <seyd55@outlook.de>
+ * @url https://github.com/r2shyyou/homebridge-printer-v2
+ * @author r2shyyou <r2shyyou@gmail.com>
  *
  **/
 
